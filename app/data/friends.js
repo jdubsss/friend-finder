@@ -4,160 +4,160 @@ var friends = [
     "name":"Koen",
     "photo":"https://images.unsplash.com/photo-1476903930099-d0ddfec9a475?dpr=1&auto=compress,format&fit=crop&w=1568&h=&q=80&cs=tinysrgb&crop=",
     "scores":[
-       5,
-       1,
-       4,
-       4,
-       5,
-       1,
-       2,
-       5,
-       4,
-       1
+       "5",
+       "1",
+       "4",
+       "4",
+       "5",
+       "1",
+       "2",
+       "5",
+       "4",
+       "1"
         ]
     },
     {
     "name":"Kian",
     "photo":"https://images.unsplash.com/photo-1476814607969-0dfe98b9be5c?dpr=1&auto=compress,format&fit=crop&w=1500&h=&q=80&cs=tinysrgb&crop=",
     "scores":[
-       3,
-       2,
-       3,
-       5,
-       3,
-       5,
-       4,
-       5,
-       4,
-       2
+       "3",
+       "2",
+       "3",
+       "5",
+       "3",
+       "5",
+       "4",
+       "5",
+       "4",
+       "2"
         ]
   },
   {
     "name":"Makai",
     "photo":"https://images.unsplash.com/photo-1500649297466-74794c70acfc?dpr=1&auto=compress,format&fit=crop&w=1500&h=&q=80&cs=tinysrgb&crop=",
     "scores":[
-       1,
-       4,
-       2,
-       5,
-       2,
-       4,
-       3,
-       4,
-       5,
-       3
+       "1",
+       "4",
+       "2",
+       "5",
+       "2",
+       "4",
+       "3",
+       "4",
+       "5",
+       "3"
         ]
   },
   {
     "name":"Kona",
     "photo":"https://images.unsplash.com/photo-1495347353326-f1e32ba8e136?dpr=1&auto=compress,format&fit=crop&w=1500&h=&q=80&cs=tinysrgb&crop=",
     "scores":[
-       4,
-       3,
-       4,
-       2,
-       3,
-       4,
-       2,
-       5,
-       2,
-       4
+       "4",
+       "3",
+       "4",
+       "2",
+       "3",
+       "4",
+       "2",
+       "5",
+       "2",
+       "4"
         ]
   },
   {
     "name":"Keone",
     "photo":"https://images.unsplash.com/photo-1476147578954-fffd6bf00ab0?dpr=1&auto=compress,format&fit=crop&w=1500&h=&q=80&cs=tinysrgb&crop=",
     "scores":[
-       5,
-       3,
-       4,
-       5,
-       2,
-       4,
-       5,
-       3,
-       4,
-       5
+       "5",
+       "3",
+       "4",
+       "5",
+       "2",
+       "4",
+       "5",
+       "3",
+       "4",
+       "5"
         ]
   },
   {
     "name":"Makana",
     "photo":"https://images.unsplash.com/photo-1476493279419-b785d41e38d8?dpr=1&auto=compress,format&fit=crop&w=1500&h=&q=80&cs=tinysrgb&crop=",
     "scores":[
-       1,
-       2,
-       4,
-       2,
-       3,
-       1,
-       3,
-       5,
-       3,
-       4
+       "1",
+       "2",
+       "4",
+       "2",
+       "3",
+       "1",
+       "3",
+       "5",
+       "3",
+       "4"
         ]
   },
   {
     "name":"Keahi",
     "photo":"https://images.unsplash.com/photo-1489980557514-251d61e3eeb6?dpr=1&auto=compress,format&fit=crop&w=1500&h=&q=80&cs=tinysrgb&crop=",
     "scores":[
-       4,
-       3,
-       2,
-       3,
-       3,
-       4,
-       4,
-       5,
-       3,
-       4
+       "4",
+       "3",
+       "2",
+       "3",
+       "3",
+       "4",
+       "4",
+       "5",
+       "3",
+       "4"
         ]
   },
   {
     "name":"Keolu",
     "photo":"https://images.unsplash.com/photo-1492681591534-d1f062f4c5c3?dpr=1&auto=compress,format&fit=crop&w=925&h=&q=80&cs=tinysrgb&crop=",
     "scores":[
-       5,
-       3,
-       2,
-       1,
-       1,
-       3,
-       4,
-       5,
-       5,
-       2
+       "5",
+       "3",
+       "2",
+       "1",
+       "1",
+       "3",
+       "4",
+       "5",
+       "5",
+       "2"
         ]
   },
   {
     "name":"Mele",
     "photo":"https://images.unsplash.com/photo-1477597073867-a0c34dba8be5?dpr=1&auto=compress,format&fit=crop&w=1500&h=&q=80&cs=tinysrgb&crop=",
     "scores":[
-       1,
-       3,
-       5,
-       2,
-       4,
-       5,
-       3,
-       5,
-       5,
-       1
+       "1",
+       "3",
+       "5",
+       "2",
+       "4",
+       "5",
+       "3",
+       "5",
+       "5",
+       "1"
         ]
   },
   {
     "name":"Aikau",
     "photo":"https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?dpr=1&auto=compress,format&fit=crop&w=1631&h=&q=80&cs=tinysrgb&crop=",
     "scores":[
-       5,
-       3,
-       5,
-       2,
-       1,
-       5,
-       3,
-       4,
-       4,
-       5
+       "5",
+       "3",
+       "5",
+       "2",
+       "1",
+       "5",
+       "3",
+       "4",
+       "4",
+       "5"
         ]
   }
 ]
